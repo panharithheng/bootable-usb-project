@@ -5,9 +5,8 @@ A documentation on how to install an operating system on a portable usb flash dr
    - Boot an operating system that avoids leaving traces on the host machine
    - Use it as a penetration testing tool kit which you can carry anywhere
 # 2. Tools
-   - Windows
    - Balena Etcher
-   - Kali Linux ISO ( **LIVE BOOT** )
+   - Kali Linux ISO ( **Live Boot** )
    - A USB drive (at least **8GB**, 16GB+ recommended)
 # 3. Process 
  ## Installation
