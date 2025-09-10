@@ -3,7 +3,7 @@ A documentation on how to install an operating system on a portable usb flash dr
 ##  Objective
    - Reuse an old flash drive
    - Boot an operating system that avoids leaving traces on the host machine
-   - Use it as a penetration testing tool kit which you can carry anywhere
+   - Use it as a penetration testing tool kit which can be carried anywhere
 ##  Tools
    - Balena Etcher
    - Kali Linux ISO ( **Live Boot** )
