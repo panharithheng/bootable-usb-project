@@ -16,3 +16,11 @@ A documentation on how to install an operating system on a portable usb flash dr
  - Back up any files on the usb - flashing will **erase all data**
  ### 3. Open Balena Etcher
  - Launch the Balena Etcher application
+ - Click **Flash from file** and choose the downloaded `kali-linux-xxxx.iso`.
+ - Click **Select target** and pick your USB stick.
+ - Click **Flash!** and wait for the process to complete.
+### 4. Reboot your computer
+ - Restart your computer
+ - Enter the boot menu (`F12`, `Esc`, or `Del` depending on system)
+ - Select your USB drive by ordering it above the host machine's OS
+## You should now boot into Kali Linux Live mode 🎉
